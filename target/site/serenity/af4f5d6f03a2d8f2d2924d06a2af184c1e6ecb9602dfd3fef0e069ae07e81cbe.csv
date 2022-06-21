@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product curd test","this will creat new product ","SUCCESS","2022-06-20T18:04:56.866+01:00[Europe/London]","0.0","0.79"
+"Product curd test","This will fatch the product by id ","SUCCESS","2022-06-20T18:04:57.656+01:00[Europe/London]","0.0","0.1"
+"Product curd test","this will update  product ","SUCCESS","2022-06-20T18:04:57.760+01:00[Europe/London]","0.0","0.1"
+"Product curd test","This will delete product ","SUCCESS","2022-06-20T18:04:57.863+01:00[Europe/London]","0.0","0.09"

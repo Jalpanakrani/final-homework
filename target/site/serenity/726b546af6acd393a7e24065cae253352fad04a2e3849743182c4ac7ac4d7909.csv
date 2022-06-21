@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Store curd info","creat a store detail","SUCCESS","2022-06-20T18:04:58.819+01:00[Europe/London]","0.0","0.08"
+"Store curd info","Get single store detail","SUCCESS","2022-06-20T18:04:58.902+01:00[Europe/London]","0.0","0.08"
+"Store curd info","this will update store detail","SUCCESS","2022-06-20T18:04:58.986+01:00[Europe/London]","0.0","0.09"
+"Store curd info","this will delet storedetail","SUCCESS","2022-06-20T18:04:59.077+01:00[Europe/London]","0.0","0.15"
